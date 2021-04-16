@@ -16,3 +16,5 @@ Changing conditions for agricultural cultivation and diverse practices across ag
 The GIZ Data Lab, the UNDP Accelerator Lab Niger, the University of Manchester and the GIZ Niger Project PromAP set out to find Positive Deviants among farmers in southern Niger, who cultivate the rainfed crops sorghum and pearl millet. Positive Deviants were defined as those farmers, who achieved a higher yield on sorghum and pearl millet than other farmers facing similar conditions for cultivating those crops. 
 
  Instead of relying on a one-size-fits-all approach, DPPD could therefore allow more targeted, context-sensitive interventions based on local drivers of crop yield, existing capabilities, practices and adaptations and their interplay with contextual factors. 
+ 
+ ![public spaces](https://github.com/gizdatalab/DPPD_Niger/blob/main/flow.PNG)
